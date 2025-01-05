@@ -1,0 +1,3 @@
+# React Native FlatList Performance Optimization
+
+This repository demonstrates a common performance issue in React Native's FlatList component when dealing with large datasets and provides a solution for optimization.  The bug showcases slow rendering and inefficient image handling. The solution focuses on efficient key extraction, optimized image loading, and minimizing unnecessary re-renders.  This is a common issue in React Native app development, and understanding these optimizations is crucial for building high-performance apps.
